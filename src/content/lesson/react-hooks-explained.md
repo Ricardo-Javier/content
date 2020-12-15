@@ -13,7 +13,7 @@ tags: ["reactjs","javascript","react.js","react hooks","react useState","react u
 
 ## Why hooks?
 
-Functional components passing props are amazing because they are simple, perform fast, and require little code- but they can lead to the much dreaded "wrapper hell" in the quest for maintaining encapsulated components. On the other hand, class components are often confusing to work with for both humans and machines- they often lack a positive developer experience, which makes it more difficult creating a more positive user experience as well. Hooks provide a way for us to use state and lifecycle methods with minimal code- like giving your components super powers!
+Functional components passing props are amazing because they are simple, perform fast, and require little code, but they can lead to the much dreaded "wrapper hell" in the quest for maintaining encapsulated components. On the other hand, class components are often confusing to work with for both humans and machines, they often lack a positive developer experience, which makes it more difficult creating a more positive user experience as well. Hooks provide a way for us to use state and lifecycle methods with minimal code, like giving your components super powers!
 
 ### My components need super powers?
 
